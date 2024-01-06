@@ -29,9 +29,9 @@ const IndexPage = () => (
         <div className="container">
           <header>
             <h2 className="alt">
-              Hi! I'm <strong>Anubhav</strong>
+              Hi! I'm <strong>Trevor</strong>
               <br />
-              Web developer
+              a Marketing professional
             </h2>
             <p>I have made few things check it out.</p>
           </header>
@@ -39,7 +39,7 @@ const IndexPage = () => (
           <footer>
             <Scroll type="id" element={'portfolio'}>
               <a href="#portfolio" className="button">
-                Show me
+                Read more
               </a>
             </Scroll>
           </footer>
@@ -49,14 +49,11 @@ const IndexPage = () => (
       <section id="portfolio" className="two">
         <div className="container">
           <header>
-            <h2>Portfolio</h2>
+            <h2>My Work</h2>
           </header>
 
           <p>
-            Life will feel it is always a great need for eu valley, the valley
-            CNN ridiculous smile at any time chat mainstream clinical homes.
-            Mauris floor was very warm and we need it. One customer now nibh
-            Bureau dark pools behavior.
+            I'm a marketing professional always aiming to be on the cusp of latest best practices. I use automation to help agencies save time, roll out best practices, and do more for their clients while increasing their profits.
           </p>
 
           <div className="row">
@@ -66,7 +63,7 @@ const IndexPage = () => (
                   <img src={pic2} alt="" />
                 </a>
                 <header>
-                  <h3>Ipsum Feugiat</h3>
+                  <h3>Automate Google Ads</h3>
                 </header>
               </article>
               <article className="item">
@@ -74,7 +71,7 @@ const IndexPage = () => (
                   <img src={pic3} alt="" />
                 </a>
                 <header>
-                  <h3>Rhoncus Semper</h3>
+                  <h3>Proactive Alerts</h3>
                 </header>
               </article>
             </div>
@@ -84,7 +81,7 @@ const IndexPage = () => (
                   <img src={pic4} alt="" />
                 </a>
                 <header>
-                  <h3>Magna Nullam</h3>
+                  <h3>Programatic Solutions</h3>
                 </header>
               </article>
               <article className="item">
@@ -92,7 +89,7 @@ const IndexPage = () => (
                   <img src={pic5} alt="" />
                 </a>
                 <header>
-                  <h3>Natoque Vitae</h3>
+                  <h3>Increase Productivity</h3>
                 </header>
               </article>
             </div>
@@ -102,7 +99,7 @@ const IndexPage = () => (
                   <img src={pic6} alt="" />
                 </a>
                 <header>
-                  <h3>Dolor Penatibus</h3>
+                  <h3>Hit Client Targets</h3>
                 </header>
               </article>
               <article className="item">
@@ -110,7 +107,7 @@ const IndexPage = () => (
                   <img src={pic7} alt="" />
                 </a>
                 <header>
-                  <h3>Orci Convallis</h3>
+                  <h3>Sleep Better</h3>
                 </header>
               </article>
             </div>
@@ -129,13 +126,9 @@ const IndexPage = () => (
           </a>
 
           <p>
-            Developers football competition in diameter big price to layer the
-            pot. Chavez ultricies care who wants to CNN. Lobortis elementum
-            aliquet eget a den of which they do not hold it in hatred developers
-            nor the mountains of the deposit slip. The element of time, sem ante
-            ullamcorper dolor nulla quam placerat viverra environment is not
-            with our customers. Free makeup and skirt until the mouse or
-            partners or to decorate each targeted.
+            I'm a 90s kid with 8 years experience working with Google Ads. I've worked with clients large and small, and 
+            spent 4 years running the operations and services side of an agency. 
+            In my spare time, I enjoy cooking, bikpacking, and all things tech. 
           </p>
         </div>
       </section>
@@ -147,11 +140,7 @@ const IndexPage = () => (
           </header>
 
           <p>
-            The element of time, sem ante ullamcorper dolor nulla quam placerat
-            viverra environment is not with our customers. Free makeup and skirt
-            until the mouse. Japan this innovative and ultricies carton salad
-            clinical ridiculous now passes from enhanced. Mauris pot innovative
-            care for my pain.
+            Would you like to see what I can bring to the table? Let's jump on a free call and help me solve your pain pointst with your agency or ad accounts. 
           </p>
 
           <form method="post" action="#">
